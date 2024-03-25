@@ -29,3 +29,5 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_log
 
 WebUI.verifyElementText(findTestObject('Page_Swag Labs/h3_Epic sadface Password is required'), 'Epic sadface: Password is required')
 
+WebUI.takeFullPageScreenshot()
+

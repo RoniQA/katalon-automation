@@ -29,3 +29,5 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_log
 
 WebUI.verifyElementVisible(findTestObject('Page_Swag Labs/span_Products'))
 
+WebUI.takeFullPageScreenshot()
+

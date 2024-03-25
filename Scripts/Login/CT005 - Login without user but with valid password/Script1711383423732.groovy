@@ -29,3 +29,5 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_log
 
 WebUI.verifyElementText(findTestObject('Page_Swag Labs/h3_Epic sadface Username is required'), 'Epic sadface: Username is required')
 
+WebUI.takeFullPageScreenshot()
+
