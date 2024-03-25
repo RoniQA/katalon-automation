@@ -31,3 +31,5 @@ WebUI.verifyElementVisible(findTestObject('Page_Swag Labs/span_Products'))
 
 WebUI.takeFullPageScreenshot()
 
+WebUI.closeBrowser()
+

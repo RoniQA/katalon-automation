@@ -32,3 +32,5 @@ WebUI.verifyElementText(findTestObject('Page_Swag Labs/h3_Epic sadface Username 
 
 WebUI.takeFullPageScreenshot()
 
+WebUI.closeBrowser()
+
